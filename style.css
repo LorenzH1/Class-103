@@ -1,0 +1,19 @@
+body{
+    background-color: red;
+    color:yellow;
+}
+#camera{
+    border-width: 10px;
+    border-style: double;
+    border-color: grey;
+    width: 320px;
+    height: 300px;
+}
+.heading{
+    width: 70%;
+    font-size: 20px;
+}
+.name_of_the_objects{
+    color: black;
+    font-size: 24px;
+}
